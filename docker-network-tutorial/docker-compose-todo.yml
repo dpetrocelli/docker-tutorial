@@ -1,0 +1,11 @@
+version: '3'
+services:
+  java-server:
+    build: ./servidor
+    ports:
+      - 4444:4444
+  java-server2:
+    build: ./servidor
+    ports:
+      - 4443:4444
+ 
