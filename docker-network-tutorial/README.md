@@ -461,6 +461,6 @@ Wed Apr 22 22:37:52 GMT 2020
 ```
 
 Finalmente parar los servicios definidos para finalizar con esta parte del tutorial (consola que tiene el docker-compose up). 
-Ahora, tomar un descanso y estar listos para [la segunda parte del tutorial](https://github.com/dpetrocelli/sdypp2020/tree/master/TPS/No%20obligatorios/docker-network-tutorial-p2)
+Ahora, tomar un descanso y estar listos para [la segunda parte del tutorial](https://github.com/dpetrocelli/docker-tutorial/tree/master/docker-network-tutorial-p2)
 
 Gracias!
